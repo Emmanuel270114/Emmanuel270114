@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Emmanuel
+- 👀 I’m interested in technology and programming
+- 🌱 I’m currently learning web development using JavaScript, HTML, and CSS, but I’m interested in learning other programming languages
+- 💞️ I’m looking to collaborate on open-source projects
+- 📫 How to reach me: you can send me an email emontiel55@outlook.com
+- 😄 Pronouns: Him
+- ⚡ Fun fact: I love practice soccer and listening to electronic music
